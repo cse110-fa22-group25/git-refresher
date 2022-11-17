@@ -1,6 +1,6 @@
-this is the first line
+this is the first line (modify the first line (user2))
 
-this is the second line
+this is the second line (modify the second line (user2))
 
 this is the third line
 
