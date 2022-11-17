@@ -1,6 +1,9 @@
-This is the first line (make some changes (user2))
+Some variables here (user1)
+
+This is the first line (make some chagnes (user1))
+
 
 This is the second line (make some changes (user2))
 
-This is the third line
+This is the third line (make soem changes (user1))
 
